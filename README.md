@@ -1,4 +1,11 @@
 FreqCalcFlatFIleValidator
 =========================
 
-C# class for flat file validation using frequency distribution of the characters. Currently only supports CSV files.
+C# classes for Extracting Transforming and Loading data.
+
+Crrently classes support flat files.
+
+Calsses for:
+Reading Flat files.
+Parsing Delimited Files.
+Flat File Validation.
