@@ -3,9 +3,5 @@ C# ETL Library
 
 C# classes for Extracting Transforming and Loading data.
 
-Crrently classes support flat files.
+Under Development
 
-Calsses for:
-Reading Flat files.
-Parsing Delimited Files.
-Flat File Validation.
